@@ -1,0 +1,8 @@
+print(2 == 3)
+print(2 > 5)
+print("bangladesh" == "Bangla")
+print(5 != 10)
+print(7 >= 7)
+print("Apple" != "Banana")
+print(10 < 20)
+print(100 <= 50)
