@@ -1,5 +1,6 @@
 while True:
-    n = int(input("Please enter a number (0 to exit): "))
+    n = input("please enter a number (0 to exit):")
+    n = int(n)
     if n == 0:
         break
-    print("Square of", n, "is", n*n)
+    print("square of", n, "is", n*n)
